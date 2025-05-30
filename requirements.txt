@@ -2,9 +2,8 @@ numpy
 matplotlib
 scipy
 ipywidgets
-IPython.display
+IPython
 sympy
-sympy.abc
-scipy.optimize
-matplotlib.pyplot
-matplotlib.widgets
+sympy
+scipy
+
