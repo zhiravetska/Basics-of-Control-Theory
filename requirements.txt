@@ -1,0 +1,10 @@
+numpy
+matplotlib
+scipy
+ipywidgets
+IPython.display
+sympy
+sympy.abc
+scipy.optimize
+matplotlib.pyplot
+matplotlib.widgets
